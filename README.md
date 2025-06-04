@@ -57,8 +57,6 @@ I'm passionate about clean UI, logical systems, and combining emotional intellig
 
 [![Arabic Sign Language Interpreter](https://img.shields.io/badge/-Sign%20Language%20Interpreter-000?style=flat&logo=github)](https://github.com/hananahmad31/fyp-arabic-sign-language-interpreter)  
 [![Quiz Game](https://img.shields.io/badge/-Quiz%20Game-000?style=flat&logo=github)](https://github.com/hananahmad31/quiz-game)
-[![Sorting Visualizer](https://img.shields.io/badge/-Sorting%20Visualizer-000?style=flat&logo=github)](https://github.com/hananahmad31/sorting-visualizer)  
-
 
 ---
 
